@@ -9,11 +9,11 @@
 	  "level":5,
 	  "alterId":64
 	},
-    {
-      "id": "6c32cd6a-ee75-422d-bd3a-d563dd1d2661",
-      "level":4,
-      "alterId": 64
-    },
+        {
+          "id": "6c32cd6a-ee75-422d-bd3a-d563dd1d2661",
+          "level":4,
+          "alterId": 64
+        },
 	{
 	  "id":"4c437522-32b2-4076-ab31-2bdea45ce8c8",
 	  "level":3,
@@ -21,8 +21,8 @@
 	},
 	{
 	  "id":"04df60e9-6e53-4e5f-89ac-5704ffb08f61",
-      "level":2,
-      "alterId":64
+          "level":2,
+          "alterId":64
 	},
 	{
 	  "id":"0a4f7331-8ecb-4b6d-8c6e-475f3fde98b3",
